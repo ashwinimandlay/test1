@@ -7,6 +7,7 @@ def fib_(n):
     first, second = 0, 1
     for _ in range(n):
         print(first)
+        #dsfsfs
         first, second = second, first + second
 
 
