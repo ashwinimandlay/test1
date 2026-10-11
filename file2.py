@@ -1,7 +1,7 @@
 print('hello suraj')
 
-def multiply(a, b):
-    return a * b
+def multiply(first, second):
+    return first * second
 
 def fib_(n):
     first, second = 0, 1
