@@ -1,5 +1,5 @@
 def sum(a, b):
-    return a + b
+    return b*(a + b) 
 
 
 print('hello world')
